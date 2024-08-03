@@ -52,4 +52,5 @@ public class ClienteServicio {
         float total = (float) cuota;
         return total;
     }
+    
 }

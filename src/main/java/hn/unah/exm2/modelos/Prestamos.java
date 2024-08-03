@@ -30,6 +30,7 @@ public class Prestamos {
     private float cuota;
     private int plazo;
     private float interes;
+    private String dni;
 
     @JsonIgnore
     @ManyToOne
