@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Exm2Application<exm2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "hn.unah.exm2.Exm2Application",
+            "projectName": "exm2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
